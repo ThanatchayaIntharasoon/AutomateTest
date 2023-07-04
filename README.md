@@ -1,7 +1,7 @@
 # AutomateTest
 สวัสดีชาวโลก
 
-# github for tester
+# github for testers
 
 ## Features
 
